@@ -1,7 +1,7 @@
 {application,medium_graphql_api,
              [{applications,[kernel,stdlib,elixir,logger,runtime_tools,
                              gettext,phoenix_pubsub,cowboy,postgrex,phoenix,
-                             phoenix_ecto]},
+                             plug_cowboy,phoenix_ecto]},
               {description,"medium_graphql_api"},
               {modules,['Elixir.MediumGraphqlApi',
                         'Elixir.MediumGraphqlApi.Application',
