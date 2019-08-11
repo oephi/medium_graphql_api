@@ -20,6 +20,8 @@
                         'Elixir.MediumGraphqlApiWeb.Router',
                         'Elixir.MediumGraphqlApiWeb.Router.Helpers',
                         'Elixir.MediumGraphqlApiWeb.Schema',
+                        'Elixir.MediumGraphqlApiWeb.Schema.Types',
+                        'Elixir.MediumGraphqlApiWeb.Schema.Types.UserType',
                         'Elixir.MediumGraphqlApiWeb.UserSocket']},
               {registered,[]},
               {vsn,"0.0.1"},
